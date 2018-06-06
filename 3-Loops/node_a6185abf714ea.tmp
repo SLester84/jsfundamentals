@@ -1,0 +1,3 @@
+for (i = 1275; i <= 1275; i + i) {
+    console.log (i);
+}
